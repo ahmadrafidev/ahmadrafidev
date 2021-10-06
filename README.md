@@ -10,14 +10,14 @@ i love to making my own projects, especially in Mobile development and Web devel
 
 ## 🗄 What I've done
 
--[Personal Website](https://github.com/ahmadrafidev/Personal-Website-2)\
--[Habit Tracker App](https://github.com/ahmadrafidev/habit-tracker)
+-[Personal Website](https://github.com/ahmadrafidev/Personal-Website-2) - It is a personal website of mine.\
+-[Habit Tracker App](https://github.com/ahmadrafidev/habit-tracker) - Habit tracker is a mobile app for tracking our habit throughout the day.
 
 ### 🤙 Get in Touch
 
 -[Website](https://ahmadrafi.dev/)\
 -[Email](me@ahmadrafi.dev)\
--[Linkedin](https://www.linkedin.com/in/ahmadrafiwirana/)\
+-[Linkedin](https://www.linkedin.com/in/ahmadrafiwirana/)
 
 ### Tech Stack
 
