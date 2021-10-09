@@ -6,7 +6,7 @@ i love to making my own projects, especially in Mobile development and Web devel
 ### 🧑‍💻 What I'm currently working on
 
 -[Website for Student](https://github.com/ahmadrafidev/all-in-web) - It is a website where you can save anything related to college.\
--[Notes App](https://github.com/ahmadrafidev/note-taking-apps) - Notes app is a daily use of note taking. Build with React Native.
+-[Weather App](https://github.com/ahmadrafidev/weather-app) - Weather app is a mobile app for tracking weather around the world.
 
 ## 🗄 What I've done
 
