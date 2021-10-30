@@ -1,4 +1,4 @@
-### Ahmad Rafi Wirana
+### 👨‍🚀 Ahmad Rafi Wirana
 
 Hi, Rafi here. I am a Sophomore Student at [Universitas Indonesia](https://www.ui.ac.id/). Besides doing college,
 i love to making my own projects, especially in Mobile development and Web development. 
@@ -19,6 +19,10 @@ i love to making my own projects, especially in Mobile development and Web devel
 -[Email](me@ahmadrafi.dev)\
 -[Linkedin](https://www.linkedin.com/in/ahmadrafiwirana/)
 
-### Tech Stack
+### 🛠 Technology I Use
 
-Soon
+- Front-end development using: **HTML, Javascript, Typescript, CSS, TailwindCSS, and ChakraUI**.
+- Backend development using: **Django, NodeJS, Golang**.
+- Robust full-stack system design implementation.
+- Mobile application development using: **Flutter, Kotlin, Jetpack Compose(Still learning), and React Native**.
+- Creating scalable cloud architecture using: **AWS Cloud, Azure, Google Cloud Platform**.
