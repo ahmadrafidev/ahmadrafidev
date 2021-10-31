@@ -16,8 +16,8 @@ i love to making my own projects, especially in Mobile development and Web devel
 ### 🤙 Get in Touch
 
 - [Website](https://ahmadrafi.dev/)
-- [Email](me@ahmadrafi.dev)
 - [Linkedin](https://www.linkedin.com/in/ahmadrafiwirana/)
+- Email: me@ahmadrafi.dev
 
 ### 🛠 Technology I Use
 
