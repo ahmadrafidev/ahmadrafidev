@@ -25,5 +25,5 @@ i love to making my own projects, especially in Mobile development and Web devel
 - Front-end development using: **HTML, Javascript, Typescript, CSS, TailwindCSS, and ChakraUI**.
 - Backend development using: **Django, NodeJS, Golang**.
 - Robust full-stack system design implementation.
-- Mobile application development using: **Flutter, Kotlin, Jetpack Compose(Still learning), and React Native**.
+- Mobile application development using: **Flutter, Android Native, Jetpack Compose, iOS Native, SwiftUI, and React Native**.
 - Creating scalable cloud architecture using: **AWS Cloud, Azure, Google Cloud Platform**.
