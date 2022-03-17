@@ -5,13 +5,13 @@ i love to making my own projects, especially in Mobile development and Web devel
 
 ### 🧑‍💻 What I'm currently working on
 
-- [Website for Student](https://github.com/ahmadrafidev/all-in-web) - It is a website where you can save anything related to college.
-- [Weather App](https://github.com/ahmadrafidev/weather-app) - Weather app is a mobile app for tracking weather around the world.
-- [Gojek Clone App](https://github.com/ahmadrafidev/gojek-clone-app) - It is a mobile app that similar to Gojek mobile app on Android.
+- [Gojek Clone App](https://github.com/ahmadrafidev/gojek_clone) - It is a mobile app that similar to Gojek mobile app on Android.
+- [Pitch Perfect](https://github.com/ahmadrafidev/PitchPerfect) - iOS Native App that's part of my iOS Developer Nanodegree Program from Udacity
 
 ## 🗄 What I've done
 
 - [Personal Website](https://github.com/ahmadrafidev/Personal-Website-2) - It is a personal website of mine.
+- [Simple Todo](https://github.com/ahmadrafidev/simple_todo) - Basic CRUD Flutter App
 - [Habit Tracker App](https://github.com/ahmadrafidev/habit-tracker) - Habit tracker is a mobile app for tracking our habit throughout the day.
 
 ### 🤙 Get in Touch
