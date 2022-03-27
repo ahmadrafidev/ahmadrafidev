@@ -7,7 +7,7 @@ i love to making my own projects, especially in Mobile development and Web devel
 
 - [Gojek Clone App](https://github.com/ahmadrafidev/gojek_clone) - It is a mobile app that similar to Gojek mobile app on Android.
 - [Pitch Perfect](https://github.com/ahmadrafidev/PitchPerfect) - iOS Native App that's part of my iOS Developer Nanodegree Program from Udacity
-- [DiceRoller](https://github.com/ahmadrafidev/DiceRoller) - Android Native App that's a part of my Android Developer Nanodegree Program from Udacity
+- [Android Trivia](https://github.com/ahmadrafidev/AndroidTrivia) - Android Native App that's a part of my Android Developer Nanodegree Program from Udacity
 
 ## 🗄 What I've done
 
