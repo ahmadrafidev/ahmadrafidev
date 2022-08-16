@@ -5,7 +5,7 @@ i love to making my own projects, especially in Mobile development and Web devel
 
 ### 🧑‍💻 What I'm currently working on
 
-Currently, I am enrolled in Android application with Kotlin, iOS Development, and Fullstack Web Application nanodegree from Udacity. I hope those courses could help me to improve my skills and knowledge. Besides that, I also working on some projects from my recent internship at [KawanBantu](http://kawanbantu.com/) and [Sagara Technology](https://sagaratechnology.com/en). At [KawanBantu](http://kawanbantu.com/), I am working on a project called KawanBantu mobile app which is a brand new mobile platform from KawanBantu which I built with Flutter, and at [Sagara Technology](https://sagaratechnology.com/en), I am working on a project called HR Website as a Frontend developer which I built with ReactJS.
+Currently, I am working on as a Full-stack Engineer Intern at [Finku](https://www.finku.id/).
 
 ## 🗄 What I've done
 
