@@ -5,7 +5,7 @@ Hi, Rafi here, a Final Year Computer Science student at [Universitas Indonesia](
 ### 🧑‍💻 Currently Crafting Code
 
 - [Budgeting App](https://github.com/ahmadrafidev/budgeting-app): App to make it easy to know more your spending.
-- [Building UI](https://github.com/ahmadrafidev/building-ui): A building blocks of the web
+- [Astra: The UI](https://github.com/ahmadrafidev/astra): A building blocks of the web
 - [SWE Learning Journey](https://ahmadrafidev-learning.vercel.app/): Simple static website for documenting my personal learning in the area of software engineering.
 
 ## 🗄 Journey Through Tech
