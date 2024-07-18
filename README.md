@@ -7,7 +7,7 @@ Thanks for dropping by anyway!
 ### 🧑‍💻 Currently Crafting Code
 
 - [Budgeting App](https://github.com/ahmadrafidev/budgeting-app): An app designed to help users track and manage their spending efficiently.
-- [Astra UI](https://astra-ui.vercel.app/): The building blocks of modern UI.
+- [Astra UI](https://www.astraui.design/): The building blocks of modern UI.
 - [DevBook - A Personal SWE Learning Journey](https://devnook.vercel.app/): A docs-like website documenting my personal journey and learnings in software engineering.
 
 ## 🗄 Professional Experience
