@@ -6,7 +6,7 @@ Hi, I'm Rafi, a Computer Science student at [Universitas Indonesia](https://www.
 
 - [AstraUI](https://www.astraui.design/): The building blocks of modern UI. ✨
 - [DevBook - A Personal SWE Learning Journey](https://devnook.vercel.app/): A docs-like website documenting my personal journey and learnings in software engineering.📝
-- [Flexiva: Your Flexible Financial Companion](https://github.com/ahmadrafidev/flexiva): A cross-platform mobile app designed to help you track expenses, manage budgets, and gain insights into your financial health.💰
+- [Flexive: Your Flexible Financial Companion](https://github.com/ahmadrafidev/flexive): A cross-platform mobile app designed to help you track expenses, manage budgets, and gain insights into your financial health.💰
 
 ## Professional Experience 🗄 
 
