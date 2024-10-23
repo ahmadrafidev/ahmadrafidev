@@ -13,7 +13,7 @@ Hi, I'm Rafi, a Computer Science student at [Universitas Indonesia](https://www.
 
 - [DevBook - A Personal SWE Learning Journey](https://devnook.vercel.app/): A docs-like website documenting my personal journey and learnings in software engineering.📝
 - [SWE Interview Preparation](https://github.com/ahmadrafidev/swe-interview-preparation): A write-ups about DSA and System Design problems for SWE Interview.✍️
-- [text](https://www.ahmadrafi.dev/blog): A blog.🌻
+- [Blog](https://www.ahmadrafi.dev/blog): A blog.🌻
 
 ## Professional Experience 🗄 
 
