@@ -4,9 +4,16 @@ Hi, I'm Rafi, a Computer Science student at [Universitas Indonesia](https://www.
 
 ## Currently Crafting Code 🧑‍💻
 
-- [AstraUI](https://www.astraui.design/): The building blocks of modern UI. ✨
-- [DevBook - A Personal SWE Learning Journey](https://devnook.vercel.app/): A docs-like website documenting my personal journey and learnings in software engineering.📝
+- [AstraUI](https://www.astraui.design/): A design system. ✨
 - [Flexive: Your Flexible Financial Companion](https://github.com/ahmadrafidev/flexive): A cross-platform mobile app designed to help you track expenses, manage budgets, and gain insights into your financial health.💰
+- [WHITW](https://whitw.vercel.app/): A simple app that allows users to search for news summaries and information from around the world.📰
+- [Coollectiva](https://coollectiva.vercel.app/): A collection of the coolest AI tools.😎
+
+## Occasionally Penning My Thoughts 🧑‍💻
+
+- [DevBook - A Personal SWE Learning Journey](https://devnook.vercel.app/): A docs-like website documenting my personal journey and learnings in software engineering.📝
+- [SWE Interview Preparation](https://github.com/ahmadrafidev/swe-interview-preparation): A write-ups about DSA and System Design problems for SWE Interview.✍️
+- [text](https://www.ahmadrafi.dev/blog): A blog.🌻
 
 ## Professional Experience 🗄 
 
@@ -15,18 +22,18 @@ Hi, I'm Rafi, a Computer Science student at [Universitas Indonesia](https://www.
 -  Software Engineer Intern at [KawanBantu](https://www.kawanbantu.com/): Led the development of a Human Resource Management System (HRMS) website, from front-end development to streamlining internal HR processes.
 -  Software Engineer Intern at [Sagara Technology](https://sagaratechnology.com/en): Pioneered the first mobile app version using Flutter, leading front-end development and ensuring a seamless translation of design into a user-friendly application.
 
+## Toolkit 🛠
+
+- Front-End Development: **React, Next.js, VueJS, NuxtJS, TailwindCSS, MaterialUI, Shadcn**.
+- Back-End Development: **Django, FastAPI, NodeJS, Go, NestJS**.
+- Mobile application development: **Flutter, Android Native, iOS Native, and React Native**.
 
 ## Get in Touch 🙌🏻
 
 - Explore my [Website](https://ahmadrafi.dev/) for more about my work and adventures in coding.
 - Connect with me on [Linkedin](https://www.linkedin.com/in/ahmadrafiwirana/) for professional engagements and opportunities.
 - Follow me on [X (fka Twitter)](https://x.com/rafiwiranaa) for insights and memes.
-- Reach out directly via email: me@ahmadrafi.dev
+- Reach out directly via email: ahmadrafi9910@gmail.com.
 
-## Tech Toolkit 🛠
-
-- Front-End Development: **React, Next.js, VueJS, NuxtJS, TailwindCSS, MaterialUI, Shadcn**.
-- Back-End Development: **Django, FastAPI, NodeJS, Go, NestJS**.
-- Mobile application development: **Flutter, Android Native, iOS Native, and React Native**.
 
 Thanks for dropping by anyway!
