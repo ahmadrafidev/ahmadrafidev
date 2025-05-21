@@ -36,17 +36,6 @@ Hi, I'm Rafi, a Computer Science student at [Universitas Indonesia](https://www.
 -  Software Engineer Intern at [KawanBantu](https://www.kawanbantu.com/): Led the development of a Human Resource Management System (HRMS) website, from front-end development to streamlining internal HR processes.
 -  Software Engineer Intern at [Sagara Technology](https://sagaratechnology.com/en): Pioneered the first mobile app version using Flutter, leading front-end development and ensuring a seamless translation of design into a user-friendly application.
 
-## Toolkit 🛠
-
-### Frontend Development
-**React, Next.js, VueJS, NuxtJS, TailwindCSS, MaterialUI, Shadcn**
-
-### Backend Development
-**Django, FastAPI, NodeJS, Go, NestJS**
-
-### Mobile Development
-**Flutter, Android Native, iOS Native, React Native**
-
 ## Get in Touch 🙌🏻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmadrafiwirana-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ahmadrafiwirana/)
