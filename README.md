@@ -6,12 +6,6 @@
 
 Hi, I'm Rafi, a Computer Science student at [Universitas Indonesia](https://www.ui.ac.id/) with a fervent passion for software engineering. My interests lie at the intersection of product engineering, product design, and product management. I am particularly fascinated by the art and science of design engineering and aspire to build impactful products that seamlessly blend robust software engineering principles with intuitive design and effective product strategy. If you share these interests or see a potential collaboration, I'd love to connect!
 
-## GitHub Activity 📊
-
-[![Ahmad Rafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadrafidev&show_icons=true&theme=radical&count_private=true&hide_title=true)](https://github.com/ahmadrafidev)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadrafidev&layout=compact&theme=radical&hide_title=true)](https://github.com/ahmadrafidev)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ahmadrafidev&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
 ## Currently Crafting Code 🧑‍💻
 
 - [AstraUI](https://www.astraui.design/): A design system. ✨
